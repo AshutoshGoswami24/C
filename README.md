@@ -5,13 +5,13 @@ Welcome to my Data Structures and Algorithms (DSA) journey! This repository is d
 ## Overview
 
 This repository contains various folders, each representing different topics, exercises, and projects related to DSA. The focus is on understanding the fundamental concepts and applying them through practical coding examples.
-
+<!--
 ## Repository Structure
 
 - **Day1**: Introduction to basic data structures like arrays, linked lists, and stacks.
 - **Day2**: Implementation and exploration of queues, trees, and graphs.
 - ... (more folders will be added as I progress)
-
+-->
 ## Goals
 
 - To understand and implement various data structures and algorithms in C.
