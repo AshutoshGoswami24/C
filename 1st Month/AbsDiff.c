@@ -9,6 +9,9 @@ int main(){
     scanf("%d %d",&a,&b);
     c =a>b?a-b:b-a;
     printf("this is sum of %d - %d = %d",a,b,c);
-    printf("/* Absolute Difference Calculator \n by https://github.com/AshutoshGoswami24/C */");
+    printf("\n\n /* Absolute Difference Calculator \n by https://github.com/AshutoshGoswami24/C */\n\n");
     return 0;
 }
+
+/* Absolute Difference Calculator
+by https://github.com/AshutoshGoswami24/C */
